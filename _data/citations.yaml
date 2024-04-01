@@ -1,174 +1,651 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.1016/j.iot.2024.101174
+  title: 'OpenFL: A scalable and secure decentralized federated learning system on
+    the ethereum blockchain'
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  - "Anton Wahrst\xE4tter"
+  - Sajjad Khan
+  - Davor Svetinovic
+  publisher: Internet of Things
+  date: '2024-03-01'
+  link: https://doi.org/gtps2b
+  orcid: 0000-0002-3020-9556
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: doi:10.1109/TIFS.2024.3364081
+  title: 'BaseSAP: Modular Stealth Address Protocol for Programmable Blockchains'
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  - "Anton Wahrst\xE4tter"
+  - Matthew Solomon
+  - Ben DiFrancesco
+  - Vitalik Buterin
+  - Davor Svetinovic
+  publisher: IEEE Transactions on Information Forensics and Security
+  date: '2024-01-01'
+  link: https://doi.org/gtps2c
+  orcid: 0000-0002-3020-9556
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1109/TII.2023.3310769
+  title: Cyber-Immune Line Current Differential Relays
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Ahmad Mohammad Saber
+  - Amr Youssef
+  - Davor Svetinovic
+  - Hatem H. Zeineldin
+  - Ehab F. El-Saadany
+  publisher: IEEE Transactions on Industrial Informatics
+  date: '2024-03-01'
+  link: https://doi.org/gtps2d
+  orcid: 0000-0002-3020-9556
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.1109/TDSC.2024.3353803
+  title: 'Reducing Privacy of CoinJoin Transactions: Quantitative Bitcoin Network
+    Analysis'
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  - "Anton Wahrst\xE4tter"
+  - Alfred Taudes
+  - Davor Svetinovic
+  publisher: IEEE Transactions on Dependable and Secure Computing
+  date: '2024-01-01'
+  link: https://doi.org/gtps2f
+  orcid: 0000-0002-3020-9556
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.1016/j.iot.2023.100956
+  title: Dynamic behavior assessment protocol for secure Decentralized Federated Learning
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - Sajjad Khan
+  - "Jor\xE3o Gomes"
+  - Muhammad Habib ur Rehman
+  - Davor Svetinovic
+  publisher: Internet of Things
+  date: '2023-12-01'
+  link: https://doi.org/gtps2g
+  orcid: 0000-0002-3020-9556
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
+- id: doi:10.1109/TDSC.2023.3238412
+  title: 'Improving Cryptocurrency Crime Detection: CoinJoin Community Detection Approach'
   authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vince P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  - "Anton Wahrst\xE4tter"
+  - "Jor\xE3o Gomes"
+  - Sajjad Khan
+  - Davor Svetinovic
+  publisher: IEEE Transactions on Dependable and Secure Computing
+  date: '2023-11-01'
+  link: https://doi.org/gtps2h
+  orcid: 0000-0002-3020-9556
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.1109/ACCESS.2023.3305325
+  title: 'AI and Blockchain Synergy in Aerospace Engineering: An Impact Survey on
+    Operational Efficiency and Technological Challenges'
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - Yusra Abdulrahman
+  - "Edin Arnautovi\u0107"
+  - "Vladimir Parezanovi\u0107"
+  - Davor Svetinovic
+  publisher: IEEE Access
+  date: '2023-01-01'
+  link: https://doi.org/gtps2j
+  orcid: 0000-0002-3020-9556
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ACCESS.2023.3296559
+  title: 'Fortifying the Blockchain: A Systematic Review and Classification of Post-Quantum
+    Consensus Solutions for Enhanced Security and Resilience'
+  authors:
+  - "Jor\xE3o Gomes"
+  - Sajjad Khan
+  - Davor Svetinovic
+  publisher: IEEE Access
+  date: '2023-01-01'
+  link: https://doi.org/gtps2k
+  orcid: 0000-0002-3020-9556
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TSG.2022.3185764
+  title: Anomaly-Based Detection of Cyberattacks on Line Current Differential Relays
+  authors:
+  - Ahmad Mohammad Saber
+  - Amr Youssef
+  - Davor Svetinovic
+  - Hatem H. Zeineldin
+  - Ehab F. El-Saadany
+  publisher: IEEE Transactions on Smart Grid
+  date: '2022-11-01'
+  link: https://doi.org/gqjhpt
+  orcid: 0000-0002-3020-9556
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TII.2021.3075706
+  title: 'TrustFed: A Framework for Fair and Trustworthy Cross-Device Federated Learning
+    in IIoT'
+  authors:
+  - Muhammad Habib ur Rehman
+  - Ahmed Mukhtar Dirir
+  - Khaled Salah
+  - Ernesto Damiani
+  - Davor Svetinovic
+  publisher: IEEE Transactions on Industrial Informatics
+  date: '2021-12-01'
+  link: https://doi.org/gmrzhg
+  orcid: 0000-0002-3020-9556
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TEM.2019.2948861
+  title: Trust in Blockchain Cryptocurrency Ecosystem
+  authors:
+  - Muhammad Habib ur Rehman
+  - Khaled Salah
+  - Ernesto Damiani
+  - Davor Svetinovic
+  publisher: IEEE Transactions on Engineering Management
+  date: '2020-11-01'
+  link: https://doi.org/gtps2m
+  orcid: 0000-0002-3020-9556
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/widm.1340
+  title: Blockchain for explainable and trustworthy artificial intelligence
+  authors:
+  - Mohamed Nassar
+  - Khaled Salah
+  - Muhammad Habib ur Rehman
+  - Davor Svetinovic
+  publisher: WIREs Data Mining and Knowledge Discovery
+  date: '2019-10-17'
+  link: https://doi.org/ggjj49
+  orcid: 0000-0002-3020-9556
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TSMC.2018.2867497
+  title: Improving Bitcoin Ownership Identification Using Transaction Patterns Analysis
+  authors:
+  - Tao-Hung Chang
+  - Davor Svetinovic
+  publisher: 'IEEE Transactions on Systems, Man, and Cybernetics: Systems'
+  date: '2020-01-01'
+  link: https://doi.org/gtps2n
+  orcid: 0000-0002-3020-9556
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TSMC.2018.2883678
+  title: 'The Anti-Social System Properties: Bitcoin Network Data Analysis'
+  authors:
+  - Israa Alqassem
+  - Iyad Rahwan
+  - Davor Svetinovic
+  publisher: 'IEEE Transactions on Systems, Man, and Cybernetics: Systems'
+  date: '2020-01-01'
+  link: https://doi.org/gr73wv
+  orcid: 0000-0002-3020-9556
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ACCESS.2020.2977149
+  title: 'Blockchain Technology for Smart Grids: Decentralized NIST Conceptual Model'
+  authors:
+  - Adedayo Aderibole
+  - Aamna Aljarwan
+  - Muhammad Habib Ur Rehman
+  - Hatem H. Zeineldin
+  - Toufic Mezher
+  - Khaled Salah
+  - Ernesto Damiani
+  - Davor Svetinovic
+  publisher: IEEE Access
+  date: '2020-01-01'
+  link: https://doi.org/ggtn7n
+  orcid: 0000-0002-3020-9556
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ACCESS.2020.2991261
+  title: Blockchain-Based Decentralized Reverse Bidding in Fog Computing
+  authors:
+  - Mazin Debe
+  - Khaled Salah
+  - Muhammad Habib Ur Rehman
+  - Davor Svetinovic
+  publisher: IEEE Access
+  date: '2020-01-01'
+  link: https://doi.org/gtps2p
+  orcid: 0000-0002-3020-9556
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ACCESS.2020.2968573
+  title: Monetization of Services Provided by Public Fog Nodes Using Blockchain and
+    Smart Contracts
+  authors:
+  - Mazin Debe
+  - Khaled Salah
+  - Muhammad Habib Ur Rehman
+  - Davor Svetinovic
+  publisher: IEEE Access
+  date: '2020-01-01'
+  link: https://doi.org/gtps2q
+  orcid: 0000-0002-3020-9556
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ACCESS.2020.2992698
+  title: 'Trustworthy Blockchain Oracles: Review, Comparison, and Open Research Challenges'
+  authors:
+  - Hamda Al-Breiki
+  - Muhammad Habib Ur Rehman
+  - Khaled Salah
+  - Davor Svetinovic
+  publisher: IEEE Access
+  date: '2020-01-01'
+  link: https://doi.org/gn2j8p
+  orcid: 0000-0002-3020-9556
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/INNOVATIONS.2018.8605970
+  title: Correlation Analysis of Popularity and Interoperability in Open Source Projects
+  authors:
+  - Fatima Al Shamsi
+  - Sarah Bamatraf
+  - Talal Rahwan
+  - Zeyar Aung
+  - Davor Svetinovic
+  publisher: 2018 International Conference on Innovations in Information Technology
+    (IIT)
+  date: '2018-11-01'
+  link: https://doi.org/gtps2r
+  orcid: 0000-0002-3020-9556
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TII.2019.2913698
+  title: "Guest Editorial: Special Section on \u201CBlockchain for Industrial Internet\
+    \ of Things\u201D in IEEE Transactions on Industrial Informatics"
+  authors:
+  - Y. Zhang
+  - Z. Zheng
+  - H.-N. Dai
+  - D. Svetinovic
+  publisher: IEEE Transactions on Industrial Informatics
+  date: '2019-06-01'
+  link: https://doi.org/ggfm29
+  orcid: 0000-0002-3020-9556
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ACCESS.2019.2958355
+  title: 'IoT Public Fog Nodes Reputation System: A Decentralized Solution Using Ethereum
+    Blockchain'
+  authors:
+  - Mazin Debe
+  - Khaled Salah
+  - Muhammad Habib Ur Rehman
+  - Davor Svetinovic
+  publisher: IEEE Access
+  date: '2019-01-01'
+  link: https://doi.org/gp6mfc
+  orcid: 0000-0002-3020-9556
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TDSC.2016.2616861
+  title: Security and Privacy in Decentralized Energy Trading Through Multi-Signatures,
+    Blockchain and Anonymous Messaging Streams
+  authors:
+  - Nurzhan Zhumabekuly Aitzhan
+  - Davor Svetinovic
+  publisher: IEEE Transactions on Dependable and Secure Computing
+  date: '2018-09-01'
+  link: https://doi.org/gd7zzg
+  orcid: 0000-0002-3020-9556
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TELFOR.2018.8611900
+  title: 'Blockchain AI Framework for Healthcare Records Management: Constrained Goal
+    Model'
+  authors:
+  - Youssef Wehbe
+  - Mohamed Al Zaabi
+  - Davor Svetinovic
+  publisher: 2018 26th Telecommunications Forum (TELFOR)
+  date: '2018-11-01'
+  link: https://doi.org/gtps2s
+  orcid: 0000-0002-3020-9556
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICTUS.2017.8286087
+  title: 'Continuous integration build breakage rationale: Travis data case study'
+  authors:
+  - Panagiotis Dimitropoulos
+  - Zeyar Aung
+  - Davor Svetinovic
+  publisher: 2017 International Conference on Infocom Technologies and Unmanned Systems
+    (Trends and Future Directions) (ICTUS)
+  date: '2017-12-01'
+  link: https://doi.org/gtps2t
+  orcid: 0000-0002-3020-9556
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TELFOR.2017.8249470
+  title: Kanban-based framework for analysis of heterogeneous academic data
+  authors:
+  - Bedoor AlShebli
+  - Armin Alibasic
+  - Wei Lee Woon
+  - Davor Svetinovic
+  publisher: 2017 25th Telecommunication Forum (TELFOR)
+  date: '2017-11-01'
+  link: https://doi.org/gtps2v
+  orcid: 0000-0002-3020-9556
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICTUS.2017.8286109
+  title: Malware detection in android mobile platform using machine learning algorithms
+  authors:
+  - Mariam Al Ali
+  - Davor Svetinovic
+  - Zeyar Aung
+  - Suryani Lukman
+  publisher: 2017 International Conference on Infocom Technologies and Unmanned Systems
+    (Trends and Future Directions) (ICTUS)
+  date: '2017-12-01'
+  link: https://doi.org/gtps2w
+  orcid: 0000-0002-3020-9556
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TSMC.2016.2562501
+  title: 'Semiautomatic System Domain Data Analysis: A Smart Grid Feasibility Case
+    Study'
+  authors:
+  - Erik Casagrande
+  - Edin Arnautovic
+  - Wei Lee Woon
+  - Hatem H. Zeineldin
+  - Davor Svetinovic
+  publisher: 'IEEE Transactions on Systems, Man, and Cybernetics: Systems'
+  date: '2017-12-01'
+  link: https://doi.org/gcnf3k
+  orcid: 0000-0002-3020-9556
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICAT.2017.8171623
+  title: 'Autonomy requirements engineering for micro-satellite systems: CubeSat case
+    study'
+  authors:
+  - Mahool Alhammadi
+  - Davor Svetinovic
+  publisher: 2017 XXVI International Conference on Information, Communication and
+    Automation Technologies (ICAT)
+  date: '2017-10-01'
+  link: https://doi.org/gtps2x
+  orcid: 0000-0002-3020-9556
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICECCS.2016.023
+  title: 'Data Analysis of Digital Currency Networks: Namecoin Case Study'
+  authors:
+  - Tao-Hung Chang
+  - Davor Svetinovic
+  publisher: 2016 21st International Conference on Engineering of Complex Computer
+    Systems (ICECCS)
+  date: '2016-11-01'
+  link: https://doi.org/ggjkh5
+  orcid: 0000-0002-3020-9556
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICAT.2017.8171627
+  title: Systems security requirements analysis for M-Government transformation
+  authors:
+  - Fatima Al Shamsi
+  - Sarah Bamatraf
+  - Talal Rahwan
+  - Zeyar Aung
+  - Davor Svetinovic
+  publisher: 2017 XXVI International Conference on Information, Communication and
+    Automation Technologies (ICAT)
+  date: '2017-10-01'
+  link: https://doi.org/gtps2z
+  orcid: 0000-0002-3020-9556
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.resconrec.2015.11.011
+  title: 'RETRACTED: A carbon-sensitive two-echelon-inventory supply chain model with
+    stochastic demand'
+  authors:
+  - Malek Abu Alhaj
+  - Davor Svetinovic
+  - Ali Diabat
+  publisher: Resources, Conservation and Recycling
+  date: '2016-03-01'
+  link: https://doi.org/gtps22
+  orcid: 0000-0002-3020-9556
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-319-46681-1_5
+  title: Data Analysis of Correlation Between Project Popularity and Code Change Frequency
+  authors:
+  - Dabeeruddin Syed
+  - Jadran Sessa
+  - Andreas Henschel
+  - Davor Svetinovic
+  publisher: Neural Information Processing
+  date: '2016-01-01'
+  link: https://doi.org/gtps23
+  orcid: 0000-0002-3020-9556
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/IEEM.2015.7385836
+  title: 'Data analysis of social community reputation: Good questions vs. good answers'
+  authors:
+  - Jwen Fai Low
+  - Davor Svetinovic
+  publisher: 2015 IEEE International Conference on Industrial Engineering and Engineering
+    Management (IEEM)
+  date: '2015-12-01'
+  link: https://doi.org/gtps24
+  orcid: 0000-0002-3020-9556
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/sys.21355
+  title: 'Goal-Oriented Requirements Engineering for Research-Intensive Complex Systems:
+    A Case Study'
+  authors:
+  - Selamawit Woldeamlak
+  - Ali Diabat
+  - Davor Svetinovic
+  publisher: Systems Engineering
+  date: '2016-07-01'
+  link: https://doi.org/gtps25
+  orcid: 0000-0002-3020-9556
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/IEEM.2015.7385840
+  title: Software analytics study of Open-Source system survivability through social
+    contagion
+  authors:
+  - Jwen Fai Low
+  - Tennom Yathog
+  - Davor Svetinovic
+  publisher: 2015 IEEE International Conference on Industrial Engineering and Engineering
+    Management (IEEM)
+  date: '2015-12-01'
+  link: https://doi.org/gtps27
+  orcid: 0000-0002-3020-9556
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.is.2014.12.002
+  title: Integrated smart grid systems security threat model
+  authors:
+  - Husam Suleiman
+  - Israa Alqassem
+  - Ali Diabat
+  - Edin Arnautovic
+  - Davor Svetinovic
+  publisher: Information Systems
+  date: '2015-10-01'
+  link: https://doi.org/f7m5tc
+  orcid: 0000-0002-3020-9556
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/sys.21291
+  title: "Bitcoin\u2010Based Decentralized Carbon Emissions Trading Infrastructure\
+    \ Model"
+  authors:
+  - Enas Al Kawasmi
+  - Edin Arnautovic
+  - Davor Svetinovic
+  publisher: Systems Engineering
+  date: '2014-11-23'
+  link: https://doi.org/gfkkdx
+  orcid: 0000-0002-3020-9556
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-319-26555-1_71
+  title: Changes in Occupational Skills - A Case Study Using Non-negative Matrix Factorization
+  authors:
+  - Wei Lee Woon
+  - Zeyar Aung
+  - Wala AlKhader
+  - Davor Svetinovic
+  - Mohammad Atif Omar
+  publisher: Neural Information Processing
+  date: '2015-01-01'
+  link: https://doi.org/gtps28
+  orcid: 0000-0002-3020-9556
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-319-26561-2_15
+  title: Exploring Social Contagion in Open-Source Communities by Mining Software
+    Repositories
+  authors:
+  - Zakariyah Shoroye
+  - Waheeb Yaqub
+  - Azhar Ahmed Mohammed
+  - Zeyar Aung
+  - Davor Svetinovic
+  publisher: Neural Information Processing
+  date: '2015-01-01'
+  link: https://doi.org/gtps29
+  orcid: 0000-0002-3020-9556
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-319-26535-3_59
+  title: Software Clone Detection Using Clustering Approach
+  authors:
+  - Bikash Joshi
+  - Puskar Budhathoki
+  - Wei Lee Woon
+  - Davor Svetinovic
+  publisher: Neural Information Processing
+  date: '2015-01-01'
+  link: https://doi.org/gtps3b
+  orcid: 0000-0002-3020-9556
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-662-46578-3_98
+  title: Tackling Class Imbalance Problem in Binary Classification using Augmented
+    Neighborhood Cleaning Algorithm
+  authors:
+  - Nadyah Obaid Al Abdouli
+  - Zeyar Aung
+  - Wei Lee Woon
+  - Davor Svetinovic
+  publisher: Lecture Notes in Electrical Engineering
+  date: '2015-01-01'
+  link: https://doi.org/gtps3c
+  orcid: 0000-0002-3020-9556
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TSE.2014.2339811
+  title: 'NLP-KAOS for Systems Goal Elicitation: Smart Metering System Case Study'
+  authors:
+  - Erik Casagrande
+  - Selamawit Woldeamlak
+  - Wei Lee Woon
+  - H. H. Zeineldin
+  - Davor Svetinovic
+  publisher: IEEE Transactions on Software Engineering
+  date: '2014-10-01'
+  link: https://doi.org/gjtg7p
+  orcid: 0000-0002-3020-9556
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/IEEM.2014.7058837
+  title: A taxonomy of security and privacy requirements for the Internet of Things
+    (IoT)
+  authors:
+  - Israa Alqassem
+  - Davor Svetinovic
+  publisher: 2014 IEEE International Conference on Industrial Engineering and Engineering
+    Management
+  date: '2014-12-01'
+  link: https://doi.org/ggpqrm
+  orcid: 0000-0002-3020-9556
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/iThings.2014.74
+  title: 'Argumentation-Based Security Requirements Analysis: BitMessage Case Study'
+  authors:
+  - Andor Kovacs
+  - Ioannis Karakatsanis
+  - Davor Svetinovic
+  publisher: 2014 IEEE International Conference on Internet of Things(iThings), and
+    IEEE Green Computing and Communications (GreenCom) and IEEE Cyber, Physical and
+    Social Computing (CPSCom)
+  date: '2014-09-01'
+  link: https://doi.org/gtps3d
+  orcid: 0000-0002-3020-9556
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TSMC.2013.2257744
+  title: 'Complex Urban Systems ICT Infrastructure Modeling: A Sustainable City Case
+    Study'
+  authors:
+  - Adedamola Adepetu
+  - Edin Arnautovic
+  - Davor Svetinovic
+  - Olivier L. de Weck
+  publisher: 'IEEE Transactions on Systems, Man, and Cybernetics: Systems'
+  date: '2014-03-01'
+  link: https://doi.org/gtps3f
+  orcid: 0000-0002-3020-9556
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/IEEM.2013.6962433
+  title: 'Identifying signs of systems fragility: A crowdsourcing requirements case
+    study'
+  authors:
+  - Attila-Peter Toth
+  - Davor Svetinovic
+  publisher: 2013 IEEE International Conference on Industrial Engineering and Engineering
+    Management
+  date: '2013-12-01'
+  link: https://doi.org/gtps3g
+  orcid: 0000-0002-3020-9556
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/iThings.2014.78
+  title: 'Towards Reference Architecture for Cryptocurrencies: Bitcoin Architectural
+    Analysis'
+  authors:
+  - Israa Alqassem
+  - Davor Svetinovic
+  publisher: 2014 IEEE International Conference on Internet of Things(iThings), and
+    IEEE Green Computing and Communications (GreenCom) and IEEE Cyber, Physical and
+    Social Computing (CPSCom)
+  date: '2014-09-01'
+  link: https://doi.org/gtps3h
+  orcid: 0000-0002-3020-9556
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/1137620.1137625
+  title: Increasing quality of conceptual models
+  authors:
+  - Davor Svetinovic
+  - Daniel M. Berry
+  - Michael W. Godfrey
+  publisher: Proceedings of the 2006 international workshop on Role of abstraction
+    in software engineering
+  date: '2006-05-21'
+  link: https://doi.org/bxcrqk
+  orcid: 0000-0002-3020-9556
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -184,9 +661,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -203,21 +677,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
