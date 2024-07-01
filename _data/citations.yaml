@@ -2,14 +2,34 @@
 
 - id: doi:10.1016/j.iot.2024.101174
   title: 'OpenFL: A scalable and secure decentralized federated learning system on
-    the ethereum blockchain'
+    the Ethereum blockchain'
   authors:
   - "Anton Wahrst\xE4tter"
   - Sajjad Khan
   - Davor Svetinovic
   publisher: Internet of Things
-  date: '2024-03-01'
+  date: '2024-07-01'
   link: https://doi.org/gtps2b
+  orcid: 0000-0002-3020-9556
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3589334.3645431
+  title: Blockchain Censorship
+  authors:
+  - "Anton Wahrst\xE4tter"
+  - Jens Ernstberger
+  - Aviv Yaish
+  - Liyi Zhou
+  - Kaihua Qin
+  - Taro Tsuchiya
+  - Sebastian Steinhorst
+  - Davor Svetinovic
+  - Nicolas Christin
+  - Mikolaj Barczentewicz
+  - Arthur Gervais
+  publisher: Proceedings of the ACM on Web Conference 2024
+  date: '2024-05-13'
+  link: https://doi.org/gtt3rr
   orcid: 0000-0002-3020-9556
   plugin: orcid.py
   file: orcid.yaml
@@ -24,6 +44,20 @@
   publisher: IEEE Transactions on Information Forensics and Security
   date: '2024-01-01'
   link: https://doi.org/gtps2c
+  orcid: 0000-0002-3020-9556
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TCSS.2024.3404590
+  title: Cryptoeconomic User Behavior in the Acute Stages of Geopolitical Conflict
+  authors:
+  - "Jor\xE3o Gomes"
+  - Heder Bernardino
+  - Alex Borges Vieira
+  - Verena Dorner
+  - Davor Svetinovic
+  publisher: IEEE Transactions on Computational Social Systems
+  date: '2024-01-01'
+  link: https://doi.org/gtzp2b
   orcid: 0000-0002-3020-9556
   plugin: orcid.py
   file: orcid.yaml
