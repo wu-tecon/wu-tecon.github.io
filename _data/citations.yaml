@@ -1,15 +1,166 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1145/3774905.3794707
+  title: Learning-Based Optimization of Atomic Arbitrage in Decentralized Financial
+    Systems
+  authors:
+  - Syahirul Faiz
+  - Huned Materwala
+  - Davor Svetinovic
+  publisher: Companion Proceedings of the ACM Web Conference 2026
+  date: '2026-05-28'
+  link: https://doi.org/hb563g
+  orcid: 0000-0002-3020-9556
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3774905.3794693
+  title: 'ZABAPAD 2026: 1st Workshop on Zero-knowledge Proof and Blockchain for WEB
+    4.0: Advancing the Post-quantum and Decentralized Era'
+  authors:
+  - Shiho Kim
+  - Ho Suk
+  - Roberto Di Pietro
+  - Davor Svetinovic
+  - Kyunghi Chang
+  - Madhusudan Singh
+  - Rakesh Shrestha
+  publisher: Companion Proceedings of the ACM Web Conference 2026
+  date: '2026-05-28'
+  link: https://doi.org/hb563h
+  orcid: 0000-0002-3020-9556
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TSG.2025.3623153
+  title: Accurate and Energy-Efficient Detection of Cyberattacks Against Non-Linear
+    AGC Systems
+  authors:
+  - Muhammad Sharshar
+  - Ahmad Mohammad Saber
+  - Davor Svetinovic
+  - Hatem H. Zeineldin
+  - Ehab F. El-Saadany
+  publisher: IEEE Transactions on Smart Grid
+  date: '2026-03-01'
+  link: https://doi.org/g9748r
+  orcid: 0000-0002-3020-9556
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TIM.2026.3694725
+  title: An AI-Based Supervisory Measurement Integrity Validation Layer for Cyber-Resilient
+    AC/DC Protection in Inverter-Based Microgrids
+  authors:
+  - Ahmad Mohammad Saber
+  - Ahmed Saber Refae
+  - Davor Svetinovic
+  - Hatem H. Zeineldin
+  - Amr Youssef
+  - Deepa Kundur
+  - Ehab F. El-Saadany
+  publisher: IEEE Transactions on Instrumentation and Measurement
+  date: '2026-01-01'
+  link: https://doi.org/hb5fw3
+  orcid: 0000-0002-3020-9556
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TETC.2026.3700162
+  title: 'MEV Detection for Ethereum Security: An Empirical Analysis on Agreement
+    and Scalability'
+  authors:
+  - Shraddha M. Naik
+  - Huned Materwala
+  - Davor Svetinovic
+  publisher: IEEE Transactions on Emerging Topics in Computing
+  date: '2026-07-01'
+  link: https://doi.org/hb7pqt
+  orcid: 0000-0002-3020-9556
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ACCESS.2026.3662085
+  title: 'Split Averaging: Bridging the Heterogeneity Gap in Clients Data for Federated
+    Learning'
+  authors:
+  - Sajjad Khan
+  - Nikita Karetnikov
+  - Muhammad Habib Ur Rehman
+  - Davor Svetinovic
+  publisher: IEEE Access
+  date: '2026-01-01'
+  link: https://doi.org/hbnzn7
+  orcid: 0000-0002-3020-9556
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TSC.2025.3620604
+  title: 'Maximal Extractable Value in Decentralized Finance: Taxonomy, Detection,
+    and Mitigation'
+  authors:
+  - Huned Materwala
+  - Shraddha M. Naik
+  - Aya Taha
+  - Tala Abdulrahman Abed
+  - Davor Svetinovic
+  publisher: IEEE Transactions on Services Computing
+  date: '2025-11-01'
+  link: https://doi.org/hbfm2r
+  orcid: 0000-0002-3020-9556
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.iotcps.2026.03.006
+  title: 'Adaptive privacy-preserving federated learning for robust IoT systems: A
+    defense against data poisoning attacks'
+  authors:
+  - Sajjad Khan
+  - Davor Svetinovic
+  publisher: Internet of Things and Cyber-Physical Systems
+  date: '2025-01-01'
+  link: https://doi.org/hbt84f
+  orcid: 0000-0002-3020-9556
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TSMC.2024.3456810
+  title: 'Unmasking Covert Intrusions: Detection of Fault-Masking Cyberattacks on
+    Differential Protection Systems'
+  authors:
+  - Ahmad Mohammad Saber
+  - Amr Youssef
+  - Davor Svetinovic
+  - Hatem Zeineldin
+  - Ehab F. El-Saadany
+  publisher: 'IEEE Transactions on Systems, Man, and Cybernetics: Systems'
+  date: '2024-12-01'
+  link: https://doi.org/g8rtmk
+  orcid: 0000-0002-3020-9556
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.iot.2024.101174
   title: 'OpenFL: A scalable and secure decentralized federated learning system on
-    the ethereum blockchain'
+    the Ethereum blockchain'
   authors:
   - "Anton Wahrst\xE4tter"
   - Sajjad Khan
   - Davor Svetinovic
   publisher: Internet of Things
-  date: '2024-03-01'
+  date: '2024-07-01'
   link: https://doi.org/gtps2b
+  orcid: 0000-0002-3020-9556
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3589334.3645431
+  title: Blockchain Censorship
+  authors:
+  - "Anton Wahrst\xE4tter"
+  - Jens Ernstberger
+  - Aviv Yaish
+  - Liyi Zhou
+  - Kaihua Qin
+  - Taro Tsuchiya
+  - Sebastian Steinhorst
+  - Davor Svetinovic
+  - Nicolas Christin
+  - Mikolaj Barczentewicz
+  - Arthur Gervais
+  publisher: Proceedings of the ACM Web Conference 2024
+  date: '2024-05-13'
+  link: https://doi.org/gtt3rr
   orcid: 0000-0002-3020-9556
   plugin: orcid.py
   file: orcid.yaml
@@ -24,6 +175,20 @@
   publisher: IEEE Transactions on Information Forensics and Security
   date: '2024-01-01'
   link: https://doi.org/gtps2c
+  orcid: 0000-0002-3020-9556
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TCSS.2024.3404590
+  title: Cryptoeconomic User Behavior in the Acute Stages of Geopolitical Conflict
+  authors:
+  - "Jor\xE3o Gomes"
+  - Heder Bernardino
+  - Alex Borges Vieira
+  - Verena Dorner
+  - Davor Svetinovic
+  publisher: IEEE Transactions on Computational Social Systems
+  date: '2024-10-01'
+  link: https://doi.org/gtzp2b
   orcid: 0000-0002-3020-9556
   plugin: orcid.py
   file: orcid.yaml
@@ -49,8 +214,25 @@
   - Alfred Taudes
   - Davor Svetinovic
   publisher: IEEE Transactions on Dependable and Secure Computing
-  date: '2024-01-01'
+  date: '2024-09-01'
   link: https://doi.org/gtps2f
+  orcid: 0000-0002-3020-9556
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ACCESS.2024.3477714
+  title: 'Trends in Smart Grid Cyber-Physical Security: Components, Threats, and Solutions'
+  authors:
+  - Dimitris M. Manias
+  - Ahmad Mohammad Saber
+  - Mohammed I. Radaideh
+  - Abdelrahman Tarek Gaber
+  - Michail Maniatakos
+  - Hatem Zeineldin
+  - Davor Svetinovic
+  - Ehab F. El-Saadany
+  publisher: IEEE Access
+  date: '2024-01-01'
+  link: https://doi.org/g8dgss
   orcid: 0000-0002-3020-9556
   plugin: orcid.py
   file: orcid.yaml
@@ -425,7 +607,7 @@
   - Jadran Sessa
   - Andreas Henschel
   - Davor Svetinovic
-  publisher: Neural Information Processing
+  publisher: Lecture Notes in Computer Science
   date: '2016-01-01'
   link: https://doi.org/gtps23
   orcid: 0000-0002-3020-9556
@@ -444,8 +626,8 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/sys.21355
-  title: 'Goal-Oriented Requirements Engineering for Research-Intensive Complex Systems:
-    A Case Study'
+  title: "Goal\u2010Oriented Requirements Engineering for Research\u2010Intensive\
+    \ Complex Systems: A Case Study"
   authors:
   - Selamawit Woldeamlak
   - Ali Diabat
@@ -505,7 +687,7 @@
   - Wala AlKhader
   - Davor Svetinovic
   - Mohammad Atif Omar
-  publisher: Neural Information Processing
+  publisher: Lecture Notes in Computer Science
   date: '2015-01-01'
   link: https://doi.org/gtps28
   orcid: 0000-0002-3020-9556
@@ -520,7 +702,7 @@
   - Azhar Ahmed Mohammed
   - Zeyar Aung
   - Davor Svetinovic
-  publisher: Neural Information Processing
+  publisher: Lecture Notes in Computer Science
   date: '2015-01-01'
   link: https://doi.org/gtps29
   orcid: 0000-0002-3020-9556
@@ -533,7 +715,7 @@
   - Puskar Budhathoki
   - Wei Lee Woon
   - Davor Svetinovic
-  publisher: Neural Information Processing
+  publisher: Lecture Notes in Computer Science
   date: '2015-01-01'
   link: https://doi.org/gtps3b
   orcid: 0000-0002-3020-9556
